@@ -57,8 +57,9 @@ const App = () => {
           onChange={(e) => setQuery(e.target.value)}
           title="Search Dictionary"
           autoFocus
+          id="query"
         />
-        <button onClick={fetchDefinitions} title="Search">
+        <button onClick={fetchDefinitions} title="Search" id='search'>
           <i className="fa-solid fa-magnifying-glass"></i>
         </button>
       </section>
