@@ -25,7 +25,7 @@ const App = () => {
       console.error(err);
     } finally {
       setLoading(false);
-      setQuery('');
+      // setQuery('');
     }
   };
 
