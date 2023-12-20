@@ -76,7 +76,7 @@ const App = () => {
       <audio id="audio"></audio>
 
       <section className="source-code flex-row">
-        <a href="http://github.com/thuhtoosan/dictionary-app" target="_blank" rel="noopener noreferrer" className="flex-row" title="Source Code">
+        <a href="https://github.com/haiderzamanusafxay/dictionaryreact" target="_blank" rel="noopener noreferrer" className="flex-row" title="Source Code">
           <i className="fa-brands fa-github-alt"></i>
         </a>
       </section>
